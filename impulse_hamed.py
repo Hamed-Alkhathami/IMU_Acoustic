@@ -1,5 +1,5 @@
 from __future__ import print_function
-# we need to clean up code
+
 # Copyright (c) 2017, Simon Brodeur
 # All rights reserved.
 # 
