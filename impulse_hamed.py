@@ -1,4 +1,7 @@
 from __future__ import print_function
+
+# Nothing
+
 # Copyright (c) 2017, Simon Brodeur
 # All rights reserved.
 # 
